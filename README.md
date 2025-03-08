@@ -1,1 +1,1 @@
-# language_translator
+This is a web-based application that allows users to upload a text file and translate its content into multiple languages using the Google Translate API. The app is built with Flask for the backend and deployed on Hugging Face Spaces.
